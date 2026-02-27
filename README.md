@@ -121,7 +121,6 @@ Steps used:
 
 Aspiring Software Developer
 Java | SQL | Web Development
+Github https://github.com/Yazhini1811
 
 
-
-If you want, I can also give you a **README that looks like a top GitHub project (with badges, images, and demo preview)** which makes recruiters click your profile more.
