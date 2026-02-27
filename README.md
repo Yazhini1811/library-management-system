@@ -9,7 +9,9 @@ Designed as a portfolio project to demonstrate **JavaScript, UI design, and web 
 # 🚀 Live Demo
 
 🔗 Live Website
-[https://your-project-name.netlify.app](https://your-project-name.netlify.app)
+
+Main App: https://yazh-library-management-system.netlify.app/  
+Admin Panel: https://yazh-library-management-system.netlify.app/admin.html
 
 🔗 GitHub Repository
 [https://github.com/yourusername/library-management-system](https://github.com/yourusername/library-management-system)
