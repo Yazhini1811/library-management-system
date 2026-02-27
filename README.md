@@ -15,7 +15,7 @@ Admin Panel: https://yazh-library-management-system.netlify.app/admin.html
 
 🔗 GitHub Repository
 
-https://yazhini1811.github.io/library-management-system/
+[https://yazhini1811.github.io/library-management-system/](https://github.com/Yazhini1811/library-management-system)
 
 ---
 
